@@ -4,14 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d5ab489-af6b-44d4-be5a-a2eefd11509c" name="Changes" comment="Got spring boot working">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Tests/Aircrafts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Tests/Airports.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Tests/Cities.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Tests/Passengers.java" afterDir="false" />
+    <list default="true" id="7d5ab489-af6b-44d4-be5a-a2eefd11509c" name="Changes" comment="Changing some things, stressed">
+      <change afterPath="$PROJECT_DIR$/src/main/java/City/City.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/City/CityController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/City/CitySearchPrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/City/CityService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ApiClientTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ApiClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tests/Aircrafts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tests/Airports.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tests/Cities.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tests/Passengers.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,37 +42,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_directory_selection&quot;: &quot;C:/Users/joshu/IdeaProjects/Semester_4_Sprint_1_Client/src/test/java&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/joshu/IdeaProjects/Semester_4_Sprint_1_Client&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/joshu/IdeaProjects/Semester_4_Sprint_1_Client/src/main/java/com/keyin/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_directory_selection": "C:/Users/joshu/IdeaProjects/Semester_4_Sprint_1_Client/src/test/java",
+    "last_opened_file_path": "C:/Users/joshu/IdeaProjects/Semester 4 Sprint 1",
+    "onboarding.tips.debug.path": "C:/Users/joshu/IdeaProjects/Semester_4_Sprint_1_Client/src/main/java/com/keyin/Main.java"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="Semester_4_Sprint_1_Client" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="Semester_4_Sprint_1_Client" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -87,12 +76,21 @@
       <option name="project" value="LOCAL" />
       <updated>1698772654087</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Changing some things, stressed">
+      <option name="closed" value="true" />
+      <created>1698857766374</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698857766374</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Got spring boot working" />
-    <option name="LAST_COMMIT_MESSAGE" value="Got spring boot working" />
+    <MESSAGE value="Changing some things, stressed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changing some things, stressed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
