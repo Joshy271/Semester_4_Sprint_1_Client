@@ -4,12 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d5ab489-af6b-44d4-be5a-a2eefd11509c" name="Changes" comment="Changing some things, stressed">
+    <list default="true" id="7d5ab489-af6b-44d4-be5a-a2eefd11509c" name="Changes" comment="fixed file locations">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/keyin/Classes/Aircraft.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/keyin/Classes/Airport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/keyin/Classes/City.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/keyin/Classes/Passenger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/keyin/ClientApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/keyin/HTTPClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/keyin/Menu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/City/City.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/City/CityController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/City/CitySearchPrams.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/City/CityService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/keyin/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,8 +49,11 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "last_directory_selection": "C:/Users/joshu/IdeaProjects/Semester_4_Sprint_1_Client/src/test/java",
-    "last_opened_file_path": "C:/Users/joshu/IdeaProjects/Semester 4 Sprint 1",
-    "onboarding.tips.debug.path": "C:/Users/joshu/IdeaProjects/Semester_4_Sprint_1_Client/src/main/java/com/keyin/Main.java"
+    "last_opened_file_path": "C:/Users/joshu/IdeaProjects/Semester_4_Sprint_1_Client",
+    "onboarding.tips.debug.path": "C:/Users/joshu/IdeaProjects/Semester_4_Sprint_1_Client/src/main/java/com/keyin/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -86,23 +94,21 @@
       <option name="project" value="LOCAL" />
       <updated>1698949541035</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fixed file locations">
+      <option name="closed" value="true" />
+      <created>1698951926169</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698951926169</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Got spring boot working" />
     <MESSAGE value="Changing some things, stressed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changing some things, stressed" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/keyin/Main.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="fixed file locations" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed file locations" />
   </component>
 </project>
